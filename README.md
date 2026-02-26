@@ -64,8 +64,6 @@ Perfect for streamers who want **automation, not frustration**.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CanadianZombies&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact&hide_border=true)
-
 </td>
 
 <td align="center" width="50%">
@@ -113,6 +111,8 @@ The script contains a configuration section that allows you to control:
 
 ## 🖥 Monitor Targeting Modes
 
+<div align="left">
+   
 ```csharp
 // Set to one of:
 // - "PRIMARY" : Use primary/default monitor (0,0 coordinates)
@@ -121,3 +121,7 @@ The script contains a configuration section that allows you to control:
 private const string TARGET_MONITOR_MODE = "PRIMARY";
 private const string PORT_1 = "DISPLAYPORT"; // -- My PC Port
 private const string PORT_2 = "HDMI2";       // -- My Console Port
+
+```
+
+</div>
