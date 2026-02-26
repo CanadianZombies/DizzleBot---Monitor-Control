@@ -99,6 +99,12 @@ Perfect for streamers who want **automation, not frustration**.
    ```bash
    git clone https://github.com/CanadianZombies/DizzleBot---Monitor-Control.git
 
+2. Download change.monitor.input.sb and using streamer.bot 1.0.0+ import the .sb file.
+
+3. If you want to avoid a random import, I have included the .cs for you to add directly to streamer.bot yourself!
+
+4. Give me a follow on twitch, I'll be gaming and/or programming more projects there!
+
 # ⚙ Configuration
 
 The script contains a configuration section that allows you to control:
