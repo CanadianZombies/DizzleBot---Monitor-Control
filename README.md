@@ -62,9 +62,9 @@ Perfect for streamers who want **automation, not frustration**.
 
 ### 🧠 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=CanadianZombies&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=CanadianZombies&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact&hide_border=true)
 
 </td>
 
@@ -73,7 +73,7 @@ Perfect for streamers who want **automation, not frustration**.
 ### 🎥 Built Live on Twitch
 
 ![Twitch Status](https://img.shields.io/twitch/status/SimmyDizzle?style=for-the-badge&logo=twitch&color=9146FF)
-![Twitch Followers](https://img.shields.io/twitch/followers/SimmyDizzle?style=for-the-badge&logo=twitch&color=9146FF)
+[![Watch on Twitch](https://img.shields.io/badge/Watch-Live%20on%20Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/SimmyDizzle)
 
 <br><br>
 
